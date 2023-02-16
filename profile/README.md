@@ -17,3 +17,7 @@ Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 - Programmeren 6 - Restul API met React Frontend
 - [Programmeren 8 - Smart Technologies: AI](https://github.com/HR-CMGT/PRG08-2022-2023)
 - Programmeren 7 - React Native
+
+## Jaar 3
+
+- [Programmeren 9 - Advanced Programming](https://github.com/HR-CMGT/PRG09)
