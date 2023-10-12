@@ -7,7 +7,7 @@ Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 ## Jaar 1
 
 - [Front End Development (HTML en CSS)](https://github.com/HR-CMGT/frontend-2023-2024)
-- [Programmeren 2 - PHP]
+- [Programmeren 2 - PHP](https://github.com/HR-CMGT/PRG02-2023-2024)
 - [Programmeren 3 - Javascript Front-end]
 - [Programmeren 4 - Web Games]
 
