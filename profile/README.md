@@ -24,9 +24,10 @@ Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 
 ## Resources
 
-- [Extra hulp bij studentenhosting](https://med.hosted.hr.nl/goelr/studhosting.php)
-- [Extra hulp bij WordPress](https://med.hosted.hr.nl/goelr/wordpress.php)
-- [Extra hulp bij StadsLab/FabLab Making](https://med.hosted.hr.nl/goelr/fablab.php)
+- [CLE Speedcourses en Hackathon workshops](https://github.com/HR-CMGT/CLE-speedcourses)
+- [Hulp bij studentenhosting](https://med.hosted.hr.nl/goelr/studhosting.php)
+- [Hulp bij WordPress](https://med.hosted.hr.nl/goelr/wordpress.php)
+- [Hulp bij StadsLab/FabLab Making](https://med.hosted.hr.nl/goelr/fablab.php)
 
 ## Minor Game Design & Development
 
