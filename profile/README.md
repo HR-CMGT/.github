@@ -2,14 +2,14 @@
 
 Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 
-<img width="250" src="https://cmgt.hr.nl/images/cmgt_logo.webp">
+<img width="250" src="https://cmgt.hr.nl/images/cmgt_logo.webp"/>
 
 ## Jaar 1
 
 - [Front End Development (HTML en CSS)](https://github.com/HR-CMGT/frontend-2023-2024)
 - [Programmeren 2 - PHP](https://github.com/HR-CMGT/PRG02-2023-2024)
-- [Programmeren 3 - Javascript Front-end]
-- [Programmeren 4 - Web Games]
+- Programmeren 3 - Javascript Front-end
+- Programmeren 4 - Web Games
 
 ## Jaar 2
 
@@ -22,7 +22,7 @@ Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 
 - [Programmeren 9 - Advanced Programming](https://github.com/HR-CMGT/PRG09)
 
-## Extra resources
+## Resources
 
 - [Extra hulp bij studentenhosting](https://med.hosted.hr.nl/goelr/studhosting.php)
 - [Extra hulp bij WordPress](https://med.hosted.hr.nl/goelr/wordpress.php)
