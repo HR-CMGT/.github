@@ -2,7 +2,7 @@
 
 Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 
-<img width="250" src="https://cmgt.hr.nl/images/cmgt_logo.webp"/>
+<img width="250" src="https://cmgt.hr.nl/images/cmgt_logo.webp" />
 
 ## Jaar 1
 
