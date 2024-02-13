@@ -15,7 +15,7 @@ Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 
 - [Programmeren 5 - MVC met Laravel](https://github.com/HR-CMGT/PRG05-2023-2024)
 - Programmeren 6 - RESTful API met React Frontend
-- Programmeren 8 - Smart Technologies: AI en [AI reading list](https://github.com/HR-CMGT/Javascript-Machine-Learning)
+- [Programmeren 8 - Smart Technologies](https://github.com/HR-CMGT/PRG08-2023-2024)
 - Programmeren 7 - React Native
 
 ## Jaar 3
