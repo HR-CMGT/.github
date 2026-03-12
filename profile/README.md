@@ -20,6 +20,10 @@ Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 - [Programmeren 8 - Smart Technologies](https://github.com/HR-CMGT/PRG08-2025-2026)
 - [TLE - Speedcourse AI Recommender System](https://github.com/HR-CMGT/recommender-workshop)
 
+## Jaar 3
+
+- [Programmeren als onderdeel van PLE en SEM6](https://github.com/HR-CMGT/PLE-PRG-overview)
+
 ## Resources
 
 - [CLE Speedcourses en Hackathon workshops](https://github.com/HR-CMGT/CLE-speedcourses)
