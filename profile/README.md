@@ -10,7 +10,7 @@ Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 - [Programmeren 1 - Javascript & CPX](https://github.com/HR-CMGT/PRG01-2025-2026)
 - [Programmeren 2 - PHP & MySQL](https://github.com/HR-CMGT/PRG02-2025-2026)
 - [Programmeren 3 - Javascript & Webservices](https://github.com/HR-CMGT/PRG03-2025-2026)
-- Programmeren 4 - Games
+- [Programmeren 4 - Games](https://github.com/HR-CMGT/PRG04-2025-2026)
 
 ## Jaar 2
 
