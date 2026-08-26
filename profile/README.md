@@ -7,22 +7,22 @@ Op deze pagina vind je code en opdrachten voor de programmeervakken van CMGT.
 ## Jaar 1
 
 - [Front End Development (HTML & CSS)](https://github.com/HR-CMGT/frontend-2026-2027)
-- [Programmeren 1 - Javascript & CPX](https://github.com/HR-CMGT/PRG01-2025-2026)
-- [Programmeren 2 - PHP & MySQL](https://github.com/HR-CMGT/PRG02-2025-2026)
-- [Programmeren 3 - Javascript & Webservices](https://github.com/HR-CMGT/PRG03-2025-2026)
-- [Programmeren 4 - Games](https://github.com/HR-CMGT/PRG04-2025-2026)
+- Programmeren 1 - Javascript & CPX
+- Programmeren 2 - PHP & MySQL
+- Programmeren 3 - Javascript & Webservices
+- Programmeren 4 - Games
 
 ## Jaar 2
 
-- [Programmeren 5 - MVC met Laravel](https://github.com/HR-CMGT/PRG05-2025-2026)
-- Programmeren 6 - RESTful API met React Frontend]
-- Programmeren 7 - React Native]
-- [Programmeren 8 - Smart Technologies](https://github.com/HR-CMGT/PRG08-2025-2026)
-- [TLE - Speedcourse AI Recommender System](https://github.com/HR-CMGT/recommender-workshop)
+- Programmeren 5 - MVC met Laravel
+- Programmeren 6 - RESTful API met React Frontend
+- Programmeren 7 - React Native
+- Programmeren 8 - Smart Technologies
+- TLE - Speedcourse AI Recommender System
 
 ## Jaar 3
 
-- [Programmeren als onderdeel van PLE en SEM6](https://github.com/HR-CMGT/PLE-PRG-overview)
+- Programmeren als onderdeel van PLE en SEM6](https://github.com/HR-CMGT/PLE-PRG-overview)
 
 ## Resources
 
