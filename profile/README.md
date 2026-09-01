@@ -26,7 +26,7 @@ Op deze pagina vind je startcode voor workshops en lessen van CMGT.
 
 ## Jaar 3
 
-- Programmeren als onderdeel van PLE en SEM6](https://github.com/HR-CMGT/PLE-PRG-overview)
+- [Programmeren als onderdeel van PLE en SEM6](https://github.com/HR-CMGT/PLE-PRG-overview)
 
 ## Resources
 
